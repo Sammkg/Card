@@ -53,6 +53,10 @@ body {
     color: white;
     cursor: pointer;
     border: none;
+    transition: all 0.3s ease;
+}
+.t1 button:hover {
+    background: #265DF2;
 }
 .block2 {
     width: 300px;
@@ -94,8 +98,11 @@ body {
     color: white;
     cursor: pointer;
     border: none;
+    transition: all 0.3s ease;
 }
-
+.t2 button:hover {
+    background: #265DF2;
+}
 .block3 {
     width: 300px;
     /* height: 400px; */
@@ -136,6 +143,10 @@ body {
     color: white;
     cursor: pointer;
     border: none;
+    transition: all 0.3s ease;
+}
+.t3 button:hover {
+    background: #265DF2;
 }
 .repost {
     display: flex;
