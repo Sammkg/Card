@@ -52,7 +52,7 @@ body {
     background-color: rgba(27, 89, 221, 0.89);
     color: white;
     cursor: pointer;
-
+    border: none;
 }
 .block2 {
     width: 300px;
@@ -93,7 +93,7 @@ body {
     background-color: rgba(27, 89, 221, 0.89);
     color: white;
     cursor: pointer;
-
+    border: none;
 }
 
 .block3 {
@@ -135,7 +135,7 @@ body {
     background-color: rgba(27, 89, 221, 0.89);
     color: white;
     cursor: pointer;
-
+    border: none;
 }
 .repost {
     display: flex;
